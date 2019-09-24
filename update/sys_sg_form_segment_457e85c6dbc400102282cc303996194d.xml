@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">0d7e85c6dbc400102282cc303996194a</embedded_screen>
+        <form display_value="My Open NeedIt Requests">417e85c6dbc400102282cc3039961948</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>Zerel</sys_created_by>
+        <sys_created_on>2019-09-23 21:49:04</sys_created_on>
+        <sys_id>457e85c6dbc400102282cc303996194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_segment_457e85c6dbc400102282cc303996194d</sys_update_name>
+        <sys_updated_by>Zerel</sys_updated_by>
+        <sys_updated_on>2019-09-23 21:49:04</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

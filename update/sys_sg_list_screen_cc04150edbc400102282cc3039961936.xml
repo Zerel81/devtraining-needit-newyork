@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>List of Last Quarter </description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Calendar">400419cadbc400102282cc30399619af</icon>
+        <name>NeedIt - Last Quarter</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>Zerel</sys_created_by>
+        <sys_created_on>2019-09-23 22:13:18</sys_created_on>
+        <sys_id>cc04150edbc400102282cc3039961936</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt - Last Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_list_screen_cc04150edbc400102282cc3039961936</sys_update_name>
+        <sys_updated_by>Zerel</sys_updated_by>
+        <sys_updated_on>2019-09-24 16:48:10</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc04150edbc400102282cc3039961936"/>
+</record_update>
